@@ -1,0 +1,87 @@
+[
+    {
+        "id": 2,
+        "pokemonName": "charizard",
+        "nickname": "bambang"
+    },
+    {
+        "id": 3,
+        "pokemonName": "pikachu",
+        "nickname": "bambang-0"
+    },
+    {
+        "id": 4,
+        "pokemonName": "charizard",
+        "nickname": "bambang-1"
+    },
+    {
+        "id": 5,
+        "pokemonName": "charizard",
+        "nickname": "bambang-1"
+    },
+    {
+        "id": 6,
+        "pokemonName": "charizard",
+        "nickname": "bambang-2"
+    },
+    {
+        "id": 7,
+        "pokemonName": "charizard",
+        "nickname": "bambang-3"
+    },
+    {
+        "id": 9,
+        "pokemonName": "snorlax",
+        "nickname": "bambang-8"
+    },
+    {
+        "id": 10,
+        "pokemonName": "snorlax",
+        "nickname": "snorlax-0"
+    },
+    {
+        "id": 11,
+        "pokemonName": "snorlax",
+        "nickname": "snorlax-1"
+    },
+    {
+        "id": 12,
+        "pokemonName": "bulbasaur",
+        "nickname": "bulbasaur"
+    },
+    {
+        "id": 13,
+        "pokemonName": "bulbasaur",
+        "nickname": "bulbasaur-0"
+    },
+    {
+        "id": 14,
+        "pokemonName": "bulbasaur",
+        "nickname": "bulbasaur-1"
+    },
+    {
+        "id": 15,
+        "pokemonName": "bulbasaur",
+        "nickname": "bulbasaur-1"
+    },
+    {
+        "id": 16,
+        "pokemonName": "bulbasaur",
+        "nickname": "bulbasaur-2"
+    },
+    {
+        "id": 17,
+        "pokemonName": "pikachu",
+        "nickname": "pikachu"
+    },
+    {
+        "id": 18,
+        "pokemonName": "pikachu",
+        "nickname": "pikachu"
+    },
+    {
+        "id": 19,
+        "pokemonName": "pikachu",
+        "nickname": "pikachu-1"
+    }
+]
